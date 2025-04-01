@@ -1,0 +1,5 @@
+numpy
+gradio==4.13.0
+langchain-groq
+PyPDF2
+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
